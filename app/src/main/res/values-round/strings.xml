@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">From the Round world,\nHello, %1$s!</string>
+    <string name="device_shape">Rounded</string>
+    <string name="open_weather_api_key">YOUR_API_KEY</string>
+</resources>
